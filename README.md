@@ -12,6 +12,6 @@ Untuk menginstall dependencies jalankan perintah ```npm install```
 **3. Jalankan Metro**  
 Untuk menjalankan Metro jalankan perintah ```npx react-native start```
 
-**3. Jalankan Aplikasi pada device, emulator android atau simulator iOS**  
+**4. Jalankan Aplikasi pada device, emulator android atau simulator iOS**  
 - Untuk menjalankan aplikasi pada android ```npx react-native run-android```
 - Untuk menjalankan aplikasi pada iOS ```npx react-native run-ios```
